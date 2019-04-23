@@ -3,7 +3,7 @@
 Print Shipping Label For Magento 2 is add-on for order in magento. You can print shipping address label for your order easily and quickly.
 
 ## Feature
--You can change format address for each store.
+- You can change format address for each store.
 - Ability sorted position field.
 - Ability add text header.
 - Change font and size.
